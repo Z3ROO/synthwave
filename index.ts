@@ -31,7 +31,7 @@ export interface IDotConfig {
   backwards?: boolean
 }
 
-class Wave{
+export class Wave{
   canvas: HTMLCanvasElement
   cw: number
   ch: number
