@@ -1,0 +1,21 @@
+{
+  "name": "@z3ro/synthwave",
+  "version": "0.1.0",
+  "description": "Dotted Synthwave effect",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "./dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Z3ROO/synthwave.git"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "zero",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
